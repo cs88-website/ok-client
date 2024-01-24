@@ -17,7 +17,7 @@ tmp
 *.pydevproject
 *.kpf
 .coverage
-.ok_storage
+.ok_storage*
 
 # pip-related files
 *.egg-info
