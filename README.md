@@ -9,7 +9,7 @@ your course.
 
 The ok client software was developed for CS 61A at UC Berkeley.
 
-[![Build Status](https://travis-ci.org/okpy/ok-client.svg?branch=master)](https://travis-ci.org/okpy/ok-client)
+[![CI](https://github.com/okpy/ok-client/actions/workflows/main.yml/badge.svg)](https://github.com/okpy/ok-client/actions/workflows/main.yml)
 [![PyPI Version](http://img.shields.io/pypi/v/okpy.svg)](https://pypi.python.org/pypi/okpy)
 
 ## Developer Instructions
